@@ -1,37 +1,37 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/stellisle-app/stellisle-website/main/public/assets/logo-day.png" alt="Stellisle Emblem" width="100" />
+  <img src="assets/logo-day.png" alt="Stellisle Emblem" width="100" />
 </p>
 
 <h1 align="center">Stellisle · 知屿星信</h1>
 
 <p align="center">
-  <strong>A quiet, private desktop companion engineered for macOS on Apple Silicon.</strong><br>
+  <strong>A quiet desktop companion engineered for macOS on Apple Silicon.</strong><br>
   <em>为静谧思绪而生的桌面伴侣，与你共度屏幕前的微光晨昏。</em>
 </p>
 
 <p align="center">
-  <a href="https://stellisle.app"><img src="https://img.shields.io/badge/Website-stellisle.app-60243c?style=flat-square" alt="Website"></a>
-  <a href="https://github.com/stellisle-app/stellisle-releases/releases"><img src="https://img.shields.io/badge/Platform-macOS%20Sonoma%20%2F%20Sequoia-2c3e50?style=flat-square" alt="macOS"></a>
-  <a href="https://github.com/stellisle-app/stellisle-releases"><img src="https://img.shields.io/badge/Architecture-Apple%20Silicon%20(ARM64)-34495e?style=flat-square" alt="Apple Silicon"></a>
-  <a href="https://discord.gg/9v5yT9kR"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://stellisle.app"><img src="https://img.shields.io/badge/Official_Site-stellisle.app-60243c?style=flat-square" alt="Website"></a>
+  <a href="https://github.com/stellisle-app/stellisle-releases/releases"><img src="https://img.shields.io/badge/Platform-macOS_Sonoma_14+_|_Sequoia_15+-2c3e50?style=flat-square" alt="Platform"></a>
+  <a href="https://github.com/stellisle-app/stellisle-releases"><img src="https://img.shields.io/badge/Architecture-Apple_Silicon_(M1–M4)-34495e?style=flat-square" alt="Architecture"></a>
+  <a href="https://discord.gg/9v5yT9kR"><img src="https://img.shields.io/badge/Discord-Join_Community-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://x.com/stellisle_app"><img src="https://img.shields.io/badge/X-@stellisle__app-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/stellisle-app/stellisle-website/main/public/assets/starlight/starlight-symbol.png" alt="Starlight Symbol" width="130" />
+  <img src="assets/starlight-symbol.png" alt="Starlight Symbol" width="120" />
 </p>
 
 ---
 
 ### Philosophy
 
-Stellisle exists to provide a calm, persistent presence on your desktop. Built from the ground up for macOS and Apple Silicon, it pairs localized neural inference with procedural acoustic synthesis and an encrypted local memory graph. Your thoughts, shared moments, and conversations remain entirely on your machine.
+Stellisle is designed as a peaceful, persistent presence at the corner of your workspace. Running directly on Apple Silicon, it pairs localized neural inference with procedural acoustic synthesis and an encrypted local memory graph. Your thoughts, shared moments, and conversations remain entirely on your physical machine.
 
 ---
 
-### Ecosystem & Repositories
+### Repositories & Architecture
 
-| Repository | Visibility | Description |
+| Repository | Scope | Description |
 | :--- | :--- | :--- |
 | [**stellisle-releases**](https://github.com/stellisle-app/stellisle-releases) | `Public` | Official signed release binaries (`.dmg`), release manifests, architecture requirements, and changelogs. |
 | [**stellisle-website**](https://github.com/stellisle-app/stellisle-website) | `Private` | Official brand portal, interactive Web Audio vocal showroom, and dual-track skeuomorphic feedback station. |
